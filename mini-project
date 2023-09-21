@@ -1,0 +1,46 @@
+<!Doctype html> 
+<html lang=""en-US">
+
+<head>
+    <meta charset="UTF-8"
+  <title>Basic Landing Page</title>
+  <link rel "stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Panda, Panda, Panda</h1>
+        <h2>Panda Fan Club</h2>
+    </header>
+      <nav>
+        <a target="_blank" href="https://en.wikipedia.org/wiki/Giant_panda">Panda</a>
+        <a target="_blank" href="https://www.worldwildlife.org/species/giant-panda">More Pandas</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+<main>
+    <h3>DA PANDA CLOOB</h3>
+    <p>This is a lot of Pandas. Panda Panda Panda skee ya.
+    </p>
+    <section>
+        <div>
+            <img class ="image-border" src="panda..jpg" alt="Cute Panda" width="1200px">
+        </div>
+    </section>
+    <section class="contact_form">
+        <h3>sign up for pandas!</h3>
+        <form id="contact"
+         <label for="name">
+            <b>Full Name</b>
+         </label>
+         <Input type="text" placeholder="Enter Name" name="name" required for fdprocesseid="i18yi8">
+         <label for="email">
+            <b>Email Address</b>
+         </label>
+         <input type="text" placeholder="Enter Email" name="email" required fdprocessedid="ch1vdk">
+         <input type="submit" value="Send" fdprocessedid="5hk2vt">
+        </form> 
+    </section>
+</main>
+<footer>all done</footer>
+</body>
+</html>
